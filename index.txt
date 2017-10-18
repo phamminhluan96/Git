@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fix issue 3 clmm
+=======
+fix issue 3 dcmmmmm
+>>>>>>> issue3
